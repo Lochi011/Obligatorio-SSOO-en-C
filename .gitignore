@@ -1,0 +1,15 @@
+# Archivos de compilación
+*.o
+*.d
+
+# Ejecutables (asumo que tu ejecutable se llama 'minish')
+minish
+a.out
+
+# Carpetas de IDEs
+.vscode/
+.idea/
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
